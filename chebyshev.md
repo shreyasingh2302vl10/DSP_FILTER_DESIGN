@@ -2,13 +2,13 @@
 
 This README contains MATLAB implementations for **Chebyshev Type-I low-pass digital filter design** using three methods:
 
-* **Aim 2:** Direct Digital Design
-* **Aim 4:** Impulse Invariance Technique
-* **Aim 6:** Bilinear Transformation Technique
+* Direct Digital Design
+* Impulse Invariance Technique
+* Bilinear Transformation Technique
 
 ---
 
-## Aim 2: Direct Low Pass Chebyshev-I Filter Design
+## Direct Low Pass Chebyshev-I Filter Design
 
 ### Specifications
 
@@ -45,7 +45,7 @@ The direct digital Chebyshev-I low pass filter is designed and its frequency res
 
 ---
 
-## Aim 4: Low Pass Chebyshev-I using Impulse Invariance
+##  Low Pass Chebyshev-I using Impulse Invariance
 
 ### Specifications
 
@@ -88,7 +88,7 @@ The analog Chebyshev-I filter is converted into digital form using the **impulse
 
 ---
 
-## Aim 6: Low Pass Chebyshev-I using Bilinear Transformation
+## Low Pass Chebyshev-I using Bilinear Transformation
 
 ### Specifications
 
